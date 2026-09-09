@@ -1,4 +1,8 @@
-# asterisk-config
+# Reyes X BeerCat asterisk-config
+ 
+<div align="center">
+  <img height="350" alt="image" src="https://github.com/user-attachments/assets/14353d99-2d63-4687-9456-d1e94e2cd7af"/>
+</div>
 
 Configuración de la centralita Asterisk para la familia Reyes: dialplan, IVR y audios asociados. La estructura de carpetas del repositorio espeja las rutas reales del servidor, para que el despliegue sea una simple copia de archivos.
 
